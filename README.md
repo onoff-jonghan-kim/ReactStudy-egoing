@@ -6,4 +6,4 @@ node.jsの勉強の後、jsの能力を向上するため始めました。
 このプロジェクトではReactで簡単なCRUDを構築しました。
 
 結果は下のページで確認できます。
-https://github.com/landhyun/movieBoard　
+https://onoff-jonghan-kim.github.io/ReactStudy-egoing/
